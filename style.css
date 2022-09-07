@@ -1,0 +1,11 @@
+canvas {
+  border: 10px solid black inset;
+  background: white;
+  width: 100vmin;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+}
